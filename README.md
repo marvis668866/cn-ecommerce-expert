@@ -15,7 +15,7 @@
 
 ```bash
 mkdir -p ~/.gemini/config/skills/
-git clone https://github.com/您的用户名/cn-ecommerce-expert.git ~/.gemini/config/skills/cn-ecommerce-expert
+git clone https://github.com/marvis20260518-sys/cn-ecommerce-expert.git ~/.gemini/config/skills/cn-ecommerce-expert
 ```
 
 重启或在您的 Antigravity 对话中，该技能即会自动加载。
