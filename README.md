@@ -1,4 +1,9 @@
-# 国内电商运营专家 (Antigravity Skill)
+# 🛒 国内电商运营专家 (CN E-commerce Expert)
+
+![Stars](https://img.shields.io/github/stars/marvis20260518-sys/cn-ecommerce-expert?style=for-the-badge&color=yellow)
+![Forks](https://img.shields.io/github/forks/marvis20260518-sys/cn-ecommerce-expert?style=for-the-badge&color=blue)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Antigravity](https://img.shields.io/badge/Antigravity-Skill-orange?style=for-the-badge)
 
 这是一个为 [Google Antigravity](https://github.com/google/antigravity) 打造的自定义技能 (Skill)。
 安装此技能后，您的 AI 助手将化身为拥有 10 年操盘经验的**国内全栈电商运营总监**，精通淘宝、天猫、京东、抖音、小红书等平台的底层逻辑。
