@@ -1,7 +1,7 @@
 # 🛒 国内电商运营专家 (CN E-commerce Expert)
 
-![Stars](https://img.shields.io/github/stars/marvis20260518-sys/cn-ecommerce-expert?style=for-the-badge&color=yellow)
-![Forks](https://img.shields.io/github/forks/marvis20260518-sys/cn-ecommerce-expert?style=for-the-badge&color=blue)
+![Stars](https://img.shields.io/github/stars/marvis668866/cn-ecommerce-expert?style=for-the-badge&color=yellow)
+![Forks](https://img.shields.io/github/forks/marvis668866/cn-ecommerce-expert?style=for-the-badge&color=blue)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Antigravity](https://img.shields.io/badge/Antigravity-Skill-orange?style=for-the-badge)
 
@@ -20,7 +20,7 @@
 
 ```bash
 mkdir -p ~/.gemini/config/skills/
-git clone https://github.com/marvis20260518-sys/cn-ecommerce-expert.git ~/.gemini/config/skills/cn-ecommerce-expert
+git clone https://github.com/marvis668866/cn-ecommerce-expert.git ~/.gemini/config/skills/cn-ecommerce-expert
 ```
 
 重启或在您的 Antigravity 对话中，该技能即会自动加载。
