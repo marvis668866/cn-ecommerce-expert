@@ -31,6 +31,18 @@ git clone https://github.com/marvis668866/cn-ecommerce-expert.git ~/.gemini/conf
 **For Claude Code / Codex / Workbuddy / Cursor Users:**
 Simply clone this repository into your project's local agent skills directory (e.g., `.agents/skills/` or `.cursor/rules/`), or directly feed the `SKILL.md` content to your AI agent as system instructions.
 
+**👨‍💻 For Python Developers (Standalone Script):**
+We also provide a standalone Python script that automates the prompt generation using the OpenAI API (or any compatible endpoint).
+```bash
+git clone https://github.com/marvis668866/cn-ecommerce-expert.git
+cd cn-ecommerce-expert
+pip install -r requirements.txt
+
+# Create a .env file and set OPENAI_API_KEY
+echo "OPENAI_API_KEY=your_key_here" > .env
+python scripts/ecommerce_agent.py
+```
+
 ---
 
 <a name="chinese"></a>
@@ -56,3 +68,15 @@ git clone https://github.com/marvis668866/cn-ecommerce-expert.git ~/.gemini/conf
 
 **对于 Claude Code / Codex / Workbuddy / Cursor 等其他智能体用户：**
 只需将此仓库克隆到您项目的自定义规则或技能目录下（例如 `.agents/skills/` 或 `.cursor/rules/`），或者直接将 `SKILL.md` 喂给您的 AI 作为系统级指令即可。
+
+**👨‍💻 给开发者的独立 Python 脚本：**
+本仓库还提供了一个可以直接运行的 Python 脚本，支持通过 OpenAI API (或其他兼容的国产大模型接口) 一键全自动调用该技能包。
+```bash
+git clone https://github.com/marvis668866/cn-ecommerce-expert.git
+cd cn-ecommerce-expert
+pip install -r requirements.txt
+
+# 创建 .env 文件并填入您的 API Key
+echo "OPENAI_API_KEY=your_key_here" > .env
+python scripts/ecommerce_agent.py
+```
