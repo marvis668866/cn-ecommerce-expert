@@ -19,6 +19,7 @@ By installing this skill, your AI assistant will instantly transform into a **Se
 *   **High-Conversion Listings**: SEO-optimized titles, pain-point-driven selling points, and product description copywriting.
 *   **Full-Cycle Campaign Planning**: End-to-end marketing rhythms and strategies for major festivals like "Double 11" and "618".
 *   **Data-Driven Diagnostics**: Precise identification of traffic, CVR, and ATV issues with actionable optimization advice.
+*   **[NEW] Batch Processing Automation**: The Python SDK now supports reading `.txt` or `.csv` files to automatically generate hundreds of e-commerce operation plans asynchronously.
 
 ### 📦 Installation
 
@@ -57,6 +58,7 @@ python scripts/ecommerce_agent.py
 *   **高转化 Listing 打造**：符合 SEO 逻辑的标题优化、痛点驱动的卖点提炼与详情页文案。
 *   **全周期活动策划**：从 618 到双 11，覆盖蓄水到爆发的完整营销节奏与玩法。
 *   **数据驱动复盘**：精准定位流量、转化率、客单价问题，并给出实操改进建议。
+*   **[NEW] 批量自动化引擎**：Python SDK 现已支持读取外部 `.txt` 文件，一键为成百上千个 SKU 自动生成策划案并归档。
 
 ### 📦 安装方法
 
